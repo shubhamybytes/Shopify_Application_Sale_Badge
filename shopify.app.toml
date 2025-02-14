@@ -1,7 +1,7 @@
 # Learn more about configuring your app at https://shopify.dev/docs/apps/tools/cli/configuration
 
 client_id = "0ba78081e51f17f54a1d1f779f47c19c"
-application_url = "https://entrance-occasions-preceding-lamb.trycloudflare.com"
+application_url = "https://bride-leeds-besides-geneva.trycloudflare.com"
 embedded = true
 name = "Sale Badge Application"
 handle = "sale-badge-application"
@@ -23,9 +23,9 @@ scopes = "write_products"
 
 [auth]
 redirect_urls = [
-  "https://entrance-occasions-preceding-lamb.trycloudflare.com/auth/callback",
-  "https://entrance-occasions-preceding-lamb.trycloudflare.com/auth/shopify/callback",
-  "https://entrance-occasions-preceding-lamb.trycloudflare.com/api/auth/callback"
+  "https://bride-leeds-besides-geneva.trycloudflare.com/auth/callback",
+  "https://bride-leeds-besides-geneva.trycloudflare.com/auth/shopify/callback",
+  "https://bride-leeds-besides-geneva.trycloudflare.com/api/auth/callback"
 ]
 
 [pos]
